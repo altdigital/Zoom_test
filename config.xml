@@ -6,8 +6,8 @@
         version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
-
-    <name>AA_Test_Zoom</name>
+	<icon src="icon.png" />
+    <name>AA_Test_zoom</name>
 
     <description>
         Test modificando el zoom mediante mediaqueries.
