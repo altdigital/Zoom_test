@@ -1,0 +1,28 @@
+<manifest alg="2" build="704" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="323099947"/>
+    <file name="master_amarilla.css" crc="122903202" ref="2:3:index:4"/>
+    <file name="2.css" crc="442541942" ref="2"/>
+    <file name="3.css" crc="533970142" ref="3"/>
+    <file name="index.css" crc="4263439767" ref="index"/>
+    <file name="4.css" crc="126180663" ref="4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:3:4"/>
+    <file name="museutils.js" crc="3992981318" ref="index:2:3:4"/>
+    <file name="jquery.scrolleffects.js" crc="4278609653" ref="index:2:3:4"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:2:3:4"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:2:3:4"/>
+  </folder>
+  <folder name="images">
+    <file name="0mosaicoazul.png" crc="4120102388" ref="index:2:3:4"/>
+    <file name="0mosaicoamarillo.png" crc="3826294612" ref="index:2:3:4"/>
+    <file name="habitat-67.jpg" crc="535676733" ref="index:2:3:4"/>
+    <file name="galesflag.png" crc="523333833" ref="index:2:3:4"/>
+    <file name="u6845-4.png" crc="4103028243" ref="3"/>
+  </folder>
+  <file name="index.html" crc="38836259" mt="1376336965415"/>
+  <file name="2.html" crc="411915384" mt="1376336898051"/>
+  <file name="3.html" crc="3877521749" mt="1376336898052"/>
+  <file name="4.html" crc="283372654" mt="1376336920723"/>
+</manifest>
