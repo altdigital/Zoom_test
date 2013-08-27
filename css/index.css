@@ -35,7 +35,7 @@ and (min-width: 601px)
 and (max-width: 768px) 
 {
 #page{
-	zoom: 0.4; -moz-transform: scale(0.4); -moz-transform-origin: 0 0;
+	zoom: 0.78; -moz-transform: scale(0.78); -moz-transform-origin: 0 0;
 }
 }
 
