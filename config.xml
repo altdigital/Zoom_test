@@ -21,7 +21,7 @@
     <preference name="orientation" value="portrait" /> -->
     
     <!-- Esto activa el uso del viewport  -->
-	<preference name="fullscreen" value="false" />
+	<preference name="fullscreen" value="true" />
     <preference name="EnableViewportScale" value="true" /> 
 
 </widget>
