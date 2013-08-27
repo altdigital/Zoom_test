@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 	<icon src="icon.png" />
-    <name>AA_Test_zoom</name>
+    <name>1Test_zoom</name>
 
     <description>
         Test modificando el zoom mediante mediaqueries.
