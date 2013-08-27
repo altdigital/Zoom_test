@@ -24,6 +24,6 @@
 	<preference name="fullscreen" value="true" />
     <preference name="EnableViewportScale" value="true" /> 
 	
-	<preference name="backgroundColor" value="0x00000000" />
+	<preference name="backgroundColor" value="0ff00ff" />
 
 </widget>
