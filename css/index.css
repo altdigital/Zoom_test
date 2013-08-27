@@ -7,7 +7,7 @@ html
 and (max-width: 2000px) 
 {
 #page{
-	zoom: 0.32; -moz-transform: scale(0.32); -moz-transform-origin: 0 0;
+	zoom: 0.55; -moz-transform: scale(0.55); -moz-transform-origin: 0 0;
 }
 }
 
