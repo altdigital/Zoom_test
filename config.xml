@@ -23,5 +23,7 @@
     <!-- Esto activa el uso del viewport  -->
 	<preference name="fullscreen" value="true" />
     <preference name="EnableViewportScale" value="true" /> 
+	
+	<preference name="backgroundColor" value="0x00000000" />
 
 </widget>
